@@ -34,7 +34,9 @@ For Windows:
  
  ```shell
  $ env\Scripts\activate
-            
+  
+  :
+  
  For Unix/macOS:
   
   ---shell
