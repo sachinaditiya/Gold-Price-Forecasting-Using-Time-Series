@@ -32,18 +32,20 @@ To run the code in this repository, please follow these steps:
 4. Activate the virtual environment:
 
 For Windows:
----shell
+  
+  ---shell
   $ env\Scripts\activate
             
 For Unix/macOS:
----shell
-   $ source env/bin/activate
+  
+  ---shell
+  $ source env/bin/activate
 
 
 5. Install the required dependencies:
 
----shell
-   $ pip install -r requirements.txt
+  ---shell
+  $ pip install -r requirements.txt
 
 6. Execute the Code 
 
