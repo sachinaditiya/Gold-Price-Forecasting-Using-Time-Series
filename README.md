@@ -30,8 +30,8 @@ To run the code in this repository, please follow these steps:
 
 
 4. Activate the virtual environment:
-
- For Windows:
+For Windows:
+ 
  ```shell
  $ env\Scripts\activate
             
