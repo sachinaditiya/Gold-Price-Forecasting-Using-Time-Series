@@ -17,25 +17,25 @@ To run the code in this repository, please follow these steps:
 2. Install the required packages:
 
    ```shell
-   $ cd gold-price-forecasting
+   cd gold-price-forecasting
 
 
 3. Create a virtual environment (optional but recommended) to isolate the project dependencies:
 
    ```shell
-   $ python3 -m venv env
+   python3 -m venv env
 
 
-4. Activate the virtual environment:
+4. Activate the virtual environment(Windows):
 
    ```shell
-   $ env\Scripts\activate
+   env\Scripts\activate
 
 
 5. Install the required dependencies:s:
 
    ```shell
-   $ pip install -r requirements.txt  
+   pip install -r requirements.txt  
  
 
 6. Execute the Code 
