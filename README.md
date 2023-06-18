@@ -19,9 +19,8 @@ To run the code in this repository, please follow these steps:
 
 2. Install the required packages:
 
-:
-
-$ cd gold-price-forecasting
+   ```shell
+   $ cd gold-price-forecasting
 
 
 3. Create a virtual environment (optional but recommended) to isolate the project dependencies:
