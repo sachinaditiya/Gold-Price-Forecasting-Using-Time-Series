@@ -13,10 +13,7 @@ To run the code in this repository, please follow these steps:
    ```shell
    $ git clone https://github.com/sachinaditiya/Gold-Price-Forecasting-Using-Time-Series.git
 
-   $ cd gold-price-prediction
-
-
-
+  
 2. Install the required packages:
 
    ```shell
