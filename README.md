@@ -42,6 +42,10 @@ To run the code in this repository, please follow these steps:
 
 7. Once done deactivate the environment
 
+   ```shell
+   deactivate
+
+
 
 
 
