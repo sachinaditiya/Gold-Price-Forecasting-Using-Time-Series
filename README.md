@@ -44,10 +44,3 @@ To run the code in this repository, please follow these steps:
 
    ```shell
    deactivate
-
-
-
-
-
-
-
