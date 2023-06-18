@@ -25,7 +25,7 @@ To run the code in this repository, please follow these steps:
 
 3. Create a virtual environment (optional but recommended) to isolate the project dependencies:
 
-```shell
+   ```shell
    $ python3 -m venv env
 
 
