@@ -34,12 +34,12 @@ To run the code in this repository, please follow these steps:
  
   ```shell
   $ env\Scripts\activate
-  
  
-5. Install the required dependencies:
+5. Install the required dependencies:s:
 
-  ---shell
-  $ pip install -r requirements.txt
+   ```shell
+   $ pip install -r requirements.txt  
+ 
 
 6. Execute the Code 
 
