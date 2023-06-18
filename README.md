@@ -25,26 +25,24 @@ To run the code in this repository, please follow these steps:
 
 3. Create a virtual environment (optional but recommended) to isolate the project dependencies:
 
-:
-
-$ python3 -m venv env
+```shell
+   $ python3 -m venv env
 
 
 4. Activate the virtual environment:
 
-:
-
 For Windows:
-$ env\Scripts\activate
+---shell
+  $ env\Scripts\activate
             
 For Unix/macOS:
-$ source env/bin/activate
+---shell
+   $ source env/bin/activate
               
 5. Install the required dependencies:
 
-:
-
-$ pip install -r requirements.txt
+---shell
+   $ pip install -r requirements.txt
 
 6. Execute the Code 
 
