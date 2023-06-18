@@ -38,7 +38,8 @@ For Windows:
 For Unix/macOS:
 ---shell
    $ source env/bin/activate
-              
+
+
 5. Install the required dependencies:
 
 ---shell
