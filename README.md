@@ -11,7 +11,7 @@ To run the code in this repository, please follow these steps:
 1. Clone the repository:
 
    ```shell
-    git clone https://github.com/sachinaditiya/Gold-Price-Forecasting-Using-Time-Series.git
+   $ git clone https://github.com/sachinaditiya/Gold-Price-Forecasting-Using-Time-Series.git
 
    $ cd gold-price-prediction
 
