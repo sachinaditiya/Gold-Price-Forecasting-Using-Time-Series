@@ -29,13 +29,13 @@ To run the code in this repository, please follow these steps:
    $ python3 -m venv env
 
 
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
    ```shell
    $ env\Scripts\activate
 
 
-4. Install the required dependencies:s:
+5. Install the required dependencies:s:
 
    ```shell
    $ pip install -r requirements.txt  
