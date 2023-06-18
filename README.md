@@ -32,9 +32,8 @@ To run the code in this repository, please follow these steps:
 4. Activate the virtual environment:
 
  For Windows:
-
-   ```shell
-   $ env\Scripts\activate
+ ```shell
+ $ env\Scripts\activate
             
  For Unix/macOS:
   
