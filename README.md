@@ -30,20 +30,12 @@ To run the code in this repository, please follow these steps:
 
 
 4. Activate the virtual environment:
-a)For Windows:
+  a)For Windows:
  
- ```shell
- $ env\Scripts\activate
+  ```shell
+  $ env\Scripts\activate
   
-  
-  
-b)For Unix/macOS:
-  
-  ---shell
-  $ source env/bin/activate
-
-
-
+ 
 5. Install the required dependencies:
 
   ---shell
