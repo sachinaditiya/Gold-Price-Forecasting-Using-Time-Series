@@ -35,12 +35,13 @@ For Windows:
  ```shell
  $ env\Scripts\activate
   
-  :
+  
   
  For Unix/macOS:
   
   ---shell
   $ source env/bin/activate
+
 
 
 5. Install the required dependencies:
